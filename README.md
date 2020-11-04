@@ -27,5 +27,6 @@
 ### CHAPTER - 07  Web 应用漏洞攻防
 
 - Part - 1 基于WebGoat的漏洞利用
-  - [【Report】](https://github.com/CUCCS/2020-ns-public-ididChan/tree/chap0x07-1/chap0x07-1)
+  - [【Report】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x07-1/chap0x07-1/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
 - Part - 2 基于Juice Shop的漏洞利用 
+  - [【Report】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x07-2/chap0x07-2/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
