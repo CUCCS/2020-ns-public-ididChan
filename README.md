@@ -30,3 +30,8 @@
   - [【Report】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x07-1/chap0x07-1/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
 - **Part - 2 基于Juice Shop的漏洞利用** 
   - [【Report】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x07-2/chap0x07-2/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
+
+### CHAPTER - 08  防火墙的基本配置与使用
+
+- [【Report】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x08/chap0x08/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
+- [【Q&A】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x08/chap0x08/%E8%AF%BE%E5%90%8E%E9%A2%98.md)
