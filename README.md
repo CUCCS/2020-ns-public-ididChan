@@ -38,3 +38,8 @@
 
 - [【REPORT】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x09/chap0x09/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
 - [【Q & A】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x09/chap0x09/%E8%AF%BE%E5%90%8E%E9%A2%98.md)
+
+### CHAPTER - 0A 基于fail2ban的安全加固
+
+- [【REPORT】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x0A/chap0x0A/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
+- [【Q & A】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x0A/chap0x0A/%E8%AF%BE%E5%90%8E%E9%A2%98.md)
