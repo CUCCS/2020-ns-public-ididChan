@@ -48,3 +48,7 @@
 
 - [【REPORT】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x0B/chap0x0B/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
 - [【Q & A】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x0B/chap0x0B/Q%26A.md)
+
+### CHAPTER-0x0C  基于Zeek的取证分析
+
+- [【REPORT】](https://github.com/CUCCS/2020-ns-public-ididChan/blob/chap0x0C/chap0x0C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
